@@ -1,0 +1,41 @@
+{
+  "OrderList": [
+    {
+      "id": 1,
+      "OrdNum": "NYK-112233-112233",
+      "ItemDelivered": 3,
+      "Date": "Sat,12 Nov",
+      "imageUrl": [
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/2022-perfumes-index-1657224599.jpg"
+        },
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/61i7P8OnDKL._SL1200_.jpg"
+        },
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/1598555716-31SDUV8oSKL.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "OrdNum": "NYK-11223344-11223344",
+      "ItemDelivered": 4,
+      "Date": "Mon,10 Oct",
+      "imageUrl": [
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/bella-panty-soft-classic-pantyliners-50-10-pcs_2_display_1654504062_a5c8472d.jpg.webp"
+        },
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/2022-perfumes-index-1657224599.jpg"
+        },
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/61i7P8OnDKL._SL1200_.jpg"
+        },
+        {
+          "url": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/1598555716-31SDUV8oSKL.jpg"
+        }
+      ]
+    }
+  ]
+}

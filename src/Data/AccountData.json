@@ -1,0 +1,64 @@
+{
+  "AccountData": [
+    {
+      "id": 1,
+      "data": "Orders",
+      "desc": "Check your orders status (track,return,cancel etc)",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-purchase-order-24.png"
+    },
+    {
+      "id": 2,
+      "data": "My Coupons",
+      "desc": "Browse coupons to get discount on Nykaa",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-voucher-24.png"
+    },
+    {
+      "id": 3,
+      "data": "Wallet",
+      "desc": "Check your Nykaa Wallet Balance",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-wallet-24.png"
+    },
+    {
+      "id": 4,
+      "data": "Nykaa Prive",
+      "desc": "Shop for > ₹2000 to become a member",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-fairytale-32.png"
+    },
+    {
+      "id": 5,
+      "data": "Beauty Portfolio",
+      "desc": "Personalise your Nykaa App experience",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-makeup-64.png"
+    },
+    {
+      "id": 6,
+      "data": "Wishlist",
+      "desc": "Buy from items saved in Wishlist",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-heart-32.png"
+    },
+    {
+      "id": 7,
+      "data": "Help and Support",
+      "desc": "Get help for your account or orders",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-ask-48.png"
+    },
+    {
+      "id": 8,
+      "data": "Addresses",
+      "desc": "Manage your saved addresses",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-address-book-50.png"
+    },
+    {
+      "id": 9,
+      "data": "Payment Methods",
+      "desc": "Manage your saved payment methods",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-invoice-24.png"
+    },
+    {
+      "id": 10,
+      "data": "Profile",
+      "desc": "Manage your profile information ",
+      "imagepath": "/Users/ishitabhardwaj/Desktop/NykaApp/src/Images/icons8-registration-48.png"
+    }
+  ]
+}
